@@ -40,6 +40,10 @@
 
 ###
 
+<h2 align="left">Me segue ai!!</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-de-oliveira-monteiro-41b46222a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
