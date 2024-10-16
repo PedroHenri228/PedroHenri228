@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Quebrando a cabeça desde 2022<br>📚 Atualmente estou aprendendo Golang<br>🎯 Metas: Consiguir um emprego como dev</p>
+<p align="left">✨ Quebrando a cabeça desde 2022<br>📚 Atualmente estou aprendendo Golang e Laravel</p>
 
 ###
 
